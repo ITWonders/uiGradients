@@ -1530,6 +1530,10 @@
         "colors": ["#d4fc79", "#96e6a1"]
     },
     {
+        "name": "Slack blue",
+        "colors": ["#00C1B6", "#136EB5 97%"]
+    },
+    {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
